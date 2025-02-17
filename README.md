@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" src="">
+<img width="1266" src="https://github.com/Bethop3/personal-portfolio/blob/main/public/Captura.png">
 
 Built using:
 
